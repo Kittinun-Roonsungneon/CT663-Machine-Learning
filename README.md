@@ -1,7 +1,7 @@
 # CT663-Machine-Learning
- วิชา Machine-Learning อาจารย์บอส
-Clone Project
-CMD สั่ง <br>
-1 Run .\env\Scripts\activate <br>
-2.pip install <br>
-3.jupyter lab <br>
+ วิชา Machine-Learning อาจารย์บอส <br>
+1.Clone Project หรือ download <br>
+2.run CMD สั่ง <br>
+3 Run .\env\Scripts\activate <br>
+4.pip install <br>
+5.jupyter lab <br>
