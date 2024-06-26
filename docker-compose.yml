@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  jupyterlab:
+    build: .
+    container_name: jupyterlab
+    ports:
+      - "8888:8888"
+    volumes:
+      - .:/app
